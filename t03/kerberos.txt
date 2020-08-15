@@ -1,0 +1,3 @@
+klist
+kinit idovgopol
+kdestroy -a
