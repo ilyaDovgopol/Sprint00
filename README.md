@@ -1,2 +1,2 @@
 # Sprint 00
-# Web Frontend SE
+Web Frontend SE
